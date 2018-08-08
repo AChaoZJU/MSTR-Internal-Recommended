@@ -1,5 +1,7 @@
-# MSTR-Internal-Recommended
-目前，微策略（杭州）处于大规模扩张的阶段。965外企，杭州时薪TOP。
+# MSTR-Internal-Recommended(长期有效)
+目前内推仅限社招，8月中旬开放校招
+
+微策略（杭州）处于大规模扩张的阶段。965外企，杭州时薪TOP。
 
 有意内推者请邮件我（shizhang@microstrategy.com)你的以下信息：
 - 邮箱（必需）
