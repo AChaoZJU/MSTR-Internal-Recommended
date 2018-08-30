@@ -18,7 +18,7 @@
 
 [(Senior) Software Engineer - iOS](https://jobs.smartrecruiters.com/ni/MicroStrategy1/9d4d5616-335c-4a94-8cf3-a96d7e53f8f6?internal=true)
 
-[(Senior) Software Engineer - Java](https://jobs.smartrecruiters.com/ni/MicroStrategy1/5ea37b65-09a1-4a3d-a06b-7d94cbba47a4?internal=true
+[(Senior) Software Engineer - Java](https://jobs.smartrecruiters.com/ni/MicroStrategy1/5ea37b65-09a1-4a3d-a06b-7d94cbba47a4?internal=true)
 
 [(Senior) Software Engineer - Web](https://jobs.smartrecruiters.com/ni/MicroStrategy1/7f9253d2-df9b-4e6a-aedb-07d634528d59?internal=true)
 
