@@ -23,7 +23,7 @@
 
 [(Senior) Software Engineer - Web](http://smrtr.io/H-xT)
 
-[(Senior) Software Engineer in Test](http://smrtr.io/H-xT)
+[(Senior) Software Engineer in Test]()
 
 [(Senior) Software Engineer in Test - Mobile](http://smrtr.io/QXw2)
 
@@ -44,21 +44,21 @@
     <tr>
         <td>(Senior) Software Engineer - C++</td>
         <td>Hangzhou</td>
-        <td>hhttp://smrtr.io/QXfd</td>
+        <td>http://smrtr.io/QXfd</td>
     </tr>
     <tr>
         <td>(Senior) Software Engineer - iOS+</td>
         <td>杭州</td>
-        <td>http://smr</td>
+        <td>http://smrtr.io/QXfg</td>
     </tr>
      <tr>
         <td>(Senior) Software Engineer - Java</td>
-        <td>杭州</td>
-        <td></td>
+        <td>Hangzhou</td>
+        <td>http://smrtr.io/L89y</td>
     </tr>
     <tr>
         <td>(Senior) Software Engineer - Web<td>
-        <td>杭州</td>
+        <td>Hangzhou</td>
         <td></td>
     </tr>
 </tbody>
