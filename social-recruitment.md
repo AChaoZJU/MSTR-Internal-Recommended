@@ -1,4 +1,4 @@
-# 微策略（杭州）社招&&校招内推(长期有效)[编辑中]
+# 微策略（杭州）社招&&校招内推(长期有效)
 微策略（杭州）处于大规模扩张的阶段。965外企，杭州时薪TOP。
 
 温馨提示：简历通过筛选会有`在线测评`发到你的邮箱，这也是考核内容，请认真完成。
@@ -17,13 +17,13 @@
         <td>http://smrtr.io/QXfd</td>
     </tr>
     <tr>
-        <th>Technology</th>
+        <td>Technology</td>
         <td>(Senior) Software Engineer - iOS+</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXfg</td>
     </tr>
      <tr>
-        <th>Technology</th>
+        <td>Technology</td>
         <td>(Senior) Software Engineer - Java</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/L89y</td>
@@ -35,32 +35,32 @@
         <td>http://smrtr.io/H-xT</td>
     </tr>
     <tr>
-        <th>Technology</th>
+        <td>technology</td>
         <td>Senior Software Engineer in Test - Database(HOT)</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXB4</td>
         <td>Oracle, SQL Server, DB2, Teradata, AWS Redshift or other database experiences is a must</td>
     </tr>
     <tr>
-        <th>Technology</th>
+        <td>Technology</td>
         <td>(Senior) Software Engineer in Test</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXB4</td>
     </tr>
     <tr>
-        <th>Technology</th>
+        <td>Technology</td>
         <td>(Senior) Software Engineer in Test - Mobile</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXw2</td>
     </tr>
     <tr>
-        <th>Technology</th>
+        <td>Technology</td>
         <td>(Senior) Software Engineer in Test - Web</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QSnS</td>
     </tr>
     <tr>
-        <th>Technology</th>
+        <td>Technology</td>
         <td>Product Owner - Database/Big Data(HOT)</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/R2qn</td>
