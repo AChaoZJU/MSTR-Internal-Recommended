@@ -40,7 +40,7 @@
         <td>technology</td>
         <td>Senior Software Engineer in Test - Database(HOT)</td>
         <td>Hangzhou</td>
-        <td></td>
+        <td>http://smrtr.io/R4j-</td>
         <td>Oracle, SQL Server, DB2, Teradata, AWS Redshift or other database experiences is a must</td>
     </tr>
     <tr>
