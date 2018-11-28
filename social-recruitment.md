@@ -17,6 +17,7 @@
 <thead>
     <th>Department</th>
     <th>Position</th><th>Location</th><th>内推链接</th>
+    <th>Requirement<th>
 </thead>
 <tbody>
     <tr>
@@ -38,7 +39,7 @@
         <td>http://smrtr.io/L89y</td>
     </tr>
     <tr>
-        <th>Technology</th>
+        <td>Technology</td>
         <td>(Senior) Software Engineer - Web<td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/H-xT</td>
