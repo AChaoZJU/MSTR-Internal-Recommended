@@ -3,21 +3,11 @@
 
 温馨提示：简历通过筛选会有`在线测评`发到你的邮箱，这也是考核内容，请认真完成。
 
-有意内推者请邮件我（shizhang@microstrategy.com)你的以下信息：
-- 邮箱（必需）
-- 手机（推荐）
-- 姓名（必需）
-- 中文简历（必需，可以先发我中文简历，在面试前准备好英文简历）
-- 求职岗位（必需）
-
-求职岗位如下：
-
-#### Human Resources
 <table>
 <thead>
     <th>Department</th>
-    <th>Position</th><th>Location</th><th>内推链接</th>
-    <th>Requirement<th>
+    <th>Position</th><th>Location</th><th>投递链接</th>
+    <th>Requirement</th>
 </thead>
 <tbody>
     <tr>
@@ -53,13 +43,6 @@
     </tr>
     <tr>
         <th>Technology</th>
-        <td>Product Owner - Database/Big Data(HOT)</td>
-        <td>Hangzhou</td>
-        <td>http://smrtr.io/R2qn</td>
-        <td>Database or Big Data direction, with product management, project management or team management experiences</td>
-    </tr>
-    <tr>
-        <th>Technology</th>
         <td>(Senior) Software Engineer in Test</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXB4</td>
@@ -77,10 +60,23 @@
         <td>http://smrtr.io/QSnS</td>
     </tr>
     <tr>
+        <th>Technology</th>
+        <td>Product Owner - Database/Big Data(HOT)</td>
+        <td>Hangzhou</td>
+        <td>http://smrtr.io/R2qn</td>
+        <td>Database or Big Data direction, with product management, project management or team management experiences</td>
+    </tr>
+    <tr>
         <td>Technical Support</td>
         <td>Supprot Engineer</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXw9</td>
+    </tr>
+    <tr>
+        <td>IT Support</td>
+        <td>IT Support Engineer</td>
+        <td>Hangzhou</td>
+        <td>http://smrtr.io/QXDK</td>
     </tr>
     <tr>
         <td>Facility</td>
@@ -135,12 +131,6 @@
         <td>Business Development Representative</td>
         <td>Shanghai</td>
         <td>暂时不招</td>
-    </tr>
-    <tr>
-        <td>IT Support</td>
-        <td>IT Support Engineer</td>
-        <td>Hangzhou</td>
-        <td>http://smrtr.io/QXDK</td>
     </tr>
 </tbody>
 </table>
