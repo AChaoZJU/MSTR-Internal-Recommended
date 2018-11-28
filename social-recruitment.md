@@ -11,18 +11,8 @@
 - 求职岗位（必需）
 
 求职岗位如下：
-#### custom server
-[Supprot Engineer](http://smrtr.io/QXw9)
-
-#### Engineering
 
 #### Human Resources
-[Director, Talent Acquisition](http://smrtr.io/QXwj)
-
-[Manager, Human Resources](http://smrtr.io/QXwp)
-
-[](http://smrtr.io/QXwr)
-
 <table>
 <thead>
     <th>职位</th><th>工作地点</th><th>内推链接</th>
@@ -57,17 +47,65 @@
         <td>(Senior) Software Engineer in Test<td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXB4</td>
-    <tr>
+    </tr>
     <tr>
         <td>(Senior) Software Engineer in Test - Mobile<td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXw2</td>
-    <tr>
+    </tr>
     <tr>
         <td>(Senior) Software Engineer in Test - Web<td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QSnS</td>
     </tr>
+    <tr>
+        Custom Service
+    </tr>
+    <tr>
+        <td>Supprot Engineer<td>
+        <td>Hangzhou</td>
+        <td>http://smrtr.io/QXw9</td>
+    </tr>
+    <tr>
+        Human Resources
+    </tr>
+    <tr>
+        <td>HR intern<td>
+        <td>Hangzhou</td>
+        <td>http://smrtr.io/QR-7</td>
+    </tr>
+    <tr>
+        <td>Senior Talent Acquisition Specialist<td>
+        <td>Hangzhou</td>
+        <td>http://smrtr.io/QXwr</td>
+    </tr>
+    <tr>
+        <td>Manager, Human Resources<td>
+        <td>Hangzhou</td>
+        <td>http://smrtr.io/QXwp</td>
+    </tr>
+    <tr>
+        <td>Director, Talent Acquisition<td>
+        <td>Hangzhou</td>
+        <td>http://smrtr.io/QXwj</td>
+    </tr>
+    <tr>
+        Information Technology
+    </tr>
+    <tr>
+        <td>Associate Sales Engineer (Beijing Based)<td>
+        <td>Beijing</td>
+        <td>http://smrtr.io/QXDt</td>
+    </tr>
+    <tr>
+        <td>Associate Sales Engineer (Shanghai Based)<td>
+        <td>Shanghai</td>
+        <td>http://smrtr.io/QXDG</td>
+    </tr>
+    <tr>
+        <td>IT Support Engineer<td>
+        <td>Hangzhou</td>
+        <td>http://smrtr.io/QXDK</td>
     </tr>
 </tbody>
 </table>
