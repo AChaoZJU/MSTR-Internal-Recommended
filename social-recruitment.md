@@ -49,14 +49,14 @@
         <td>Senior Software Engineer in Test - Database(HOT)</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXB4</td>
-        <td>Oracle, SQL Server, DB2, Teradata, AWS Redshift or other database experiences is a must<td>
+        <td>Oracle, SQL Server, DB2, Teradata, AWS Redshift or other database experiences is a must</td>
     </tr>
     <tr>
         <th>Technology</th>
         <td>Product Owner - Database/Big Data(HOT)</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/R2qn</td>
-        <td>Oracle, SQL Server, DB2, Teradata, AWS Redshift or other database experiences is a must<td>
+        <td>Database or Big Data direction, with product management, project management or team management experiences</td>
     </tr>
     <tr>
         <th>Technology</th>
@@ -71,6 +71,7 @@
         <td>http://smrtr.io/QXw2</td>
     </tr>
     <tr>
+        <th>Technology</th>
         <td>(Senior) Software Engineer in Test - Web</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QSnS</td>
