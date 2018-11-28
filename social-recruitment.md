@@ -60,7 +60,7 @@
     </tr>
     <tr>
         <th>Technology</th>
-        <td>(Senior) Software Engineer in Test<td/>
+        <td>(Senior) Software Engineer in Test</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXB4</td>
     </tr>
@@ -89,7 +89,7 @@
     </tr>
     <tr>
         <td>HR</td>
-        <td>HR intern<td>
+        <td>HR intern</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QR-7</td>
     </tr>
