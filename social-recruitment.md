@@ -40,50 +40,50 @@
     </tr>
     <tr>
         <td>Technology</td>
-        <td>(Senior) Software Engineer - Web<td>
+        <td>(Senior) Software Engineer - Web</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/H-xT</td>
     </tr>
     <tr>
         <th>Technology</th>
-        <td>Senior Software Engineer in Test - Database(HOT)<td>
+        <td>Senior Software Engineer in Test - Database(HOT)</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXB4</td>
         <td>Oracle, SQL Server, DB2, Teradata, AWS Redshift or other database experiences is a must<td>
     </tr>
     <tr>
         <th>Technology</th>
-        <td>Product Owner - Database/Big Data(HOT)<td>
+        <td>Product Owner - Database/Big Data(HOT)</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/R2qn</td>
         <td>Oracle, SQL Server, DB2, Teradata, AWS Redshift or other database experiences is a must<td>
     </tr>
     <tr>
         <th>Technology</th>
-        <td>(Senior) Software Engineer in Test<td>
+        <td>(Senior) Software Engineer in Test<td/>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXB4</td>
     </tr>
     <tr>
         <th>Technology</th>
-        <td>(Senior) Software Engineer in Test - Mobile<td>
+        <td>(Senior) Software Engineer in Test - Mobile</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXw2</td>
     </tr>
     <tr>
-        <td>(Senior) Software Engineer in Test - Web<td>
+        <td>(Senior) Software Engineer in Test - Web</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QSnS</td>
     </tr>
     <tr>
-        <td>Technical Support</td> 
-        <td>Supprot Engineer<td>
+        <td>Technical Support</td>
+        <td>Supprot Engineer</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXw9</td>
     </tr>
     <tr>
-        <td>Facility</td> 
-        <td>Facility Associate<td>
+        <td>Facility</td>
+        <td>Facility Associate</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/R2qb</td>
     </tr>
@@ -95,49 +95,49 @@
     </tr>
     <tr>
         <td>HR</td>
-        <td>Senior Talent Acquisition Specialist<td>
+        <td>Senior Talent Acquisition Specialist</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXwr</td>
     </tr>
     <tr>
         <td>HR</td>
-        <td>Manager, Human Resources<td>
+        <td>Manager, Human Resources</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXwp</td>
     </tr>
     <tr>
         <td>HR</td>
-        <td>Director, Talent Acquisition<td>
+        <td>Director, Talent Acquisition</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXwj</td>
     </tr>
     <tr>
         <td>Sales</td>
-        <td>Account Executive<td>
+        <td>Account Executive</td>
         <td>Beijing</td>
         <td>http://smrtr.io/R2p8</td>
     </tr>
     <tr>
         <td>Sales</td>
-        <td>Associate Sales Engineer (Beijing Based)<td>
+        <td>Associate Sales Engineer (Beijing Based)</td>
         <td>Beijing</td>
         <td>http://smrtr.io/QXDt</td>
     </tr>
     <tr>
         <td>Sales</td>
-        <td>Associate Sales Engineer (Shanghai Based)<td>
+        <td>Associate Sales Engineer (Shanghai Based)</td>
         <td>Shanghai</td>
         <td>http://smrtr.io/QXDG</td>
     </tr>
     <tr>
         <td>Marketing</td>
-        <td>Business Development Representative<td>
+        <td>Business Development Representative</td>
         <td>Shanghai</td>
         <td>暂时不招</td>
     </tr>
     <tr>
         <td>IT Support</td>
-        <td>IT Support Engineer<td>
+        <td>IT Support Engineer</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXDK</td>
     </tr>
