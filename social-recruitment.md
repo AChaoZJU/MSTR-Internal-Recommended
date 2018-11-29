@@ -7,6 +7,7 @@
 
 <table>
 <thead>
+    <th>Department</th>
     <th>Position</th><th>Location</th><th>投递链接</th>
     <th>Requirement</th>
 </thead>
@@ -16,6 +17,7 @@
         <td>Quality Assurance Tester</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/R2rP</td>
+        <td>Business background; Business Analyst or Business Operations experiences is a plus</td>
     </tr>
     <tr>
         <td>Technology</td>
