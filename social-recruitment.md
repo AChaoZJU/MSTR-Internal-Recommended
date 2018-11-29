@@ -17,7 +17,7 @@
         <td>Quality Assurance Tester</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/R2rP</td>
-        <td>Business background; Business Analyst or Business Operations experiences is a plus</td>
+        <td>Coding is not required. Business background; Business Analyst or Business Operations experiences is a plus</td>
     </tr>
     <tr>
         <td>Technology</td>
