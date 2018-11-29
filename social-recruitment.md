@@ -17,9 +17,15 @@
 <thead>
     <th>Department</th>
     <th>Position</th><th>Location</th><th>内推链接</th>
-    <th>Requirement<th>
+    <th>Requirement</th>
 </thead>
 <tbody>
+    <tr>
+        <td>Technology</td>
+        <td>Quality Assurance Tester</td>
+        <td>Hangzhou</td>
+        <td>http://smrtr.io/R2rP</td>
+    </tr>
     <tr>
         <td>Technology</td>
         <td>(Senior) Software Engineer - C++</td>
