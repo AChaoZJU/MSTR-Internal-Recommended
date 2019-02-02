@@ -1,10 +1,14 @@
 # 微策略（杭州）社招内推(长期有效)
-0 微策略（杭州）处于大规模扩张的阶段。965外企，杭州时薪TOP。
+### 1 Note
+- 微策略（杭州）处于大规模扩张的阶段。965外企，杭州时薪TOP。
+- 温馨提示：简历通过筛选会有`在线测评`发到你的邮箱，这也是考核内容，请认真完成。
 
-1 温馨提示：简历通过筛选会有`在线测评`发到你的邮箱，这也是考核内容，请认真完成。
+### 2 关于我们
+- 分享
+  - [软件工程师](https://mp.weixin.qq.com/s/SZ7NoUYQ82nOqbmBDRAuOg)
+  - [软件测试工程师](https://mp.weixin.qq.com/s/e-Jf0NGtZbmYlRDk68UcyQ)
 
-2 校招职位目前只有HR Intern,其余为社招职位。
-
+3 投递
 <table>
 <thead>
     <th>Department</th>
@@ -44,7 +48,7 @@
         <td>http://smrtr.io/H-xT</td>
     </tr>
     <tr>
-        <td>technology</td>
+        <td>Technology</td>
         <td>Senior Software Engineer in Test - Database(HOT)</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/R4j-</td>
