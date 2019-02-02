@@ -21,25 +21,25 @@
     </tr>
     <tr>
         <td>Technology</td>
-        <td>(Senior) Software Engineer - C++</td>
+        <td>Senior Software Engineer - C++</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXfd</td>
     </tr>
     <tr>
         <td>Technology</td>
-        <td>(Senior) Software Engineer - iOS+</td>
+        <td>Senior Software Engineer - iOS+</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXfg</td>
     </tr>
      <tr>
         <td>Technology</td>
-        <td>(Senior) Software Engineer - Java</td>
+        <td>Senior Software Engineer - Java</td>
         <td>Hangzhou</td>
         <td>暂时不招</td>
     </tr>
     <tr>
         <td>Technology</td>
-        <td>(Senior) Software Engineer - Web</td>
+        <td>Senior Software Engineer - Web</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/H-xT</td>
     </tr>
@@ -52,19 +52,19 @@
     </tr>
     <tr>
         <td>Technology</td>
-        <td>(Senior) Software Engineer in Test</td>
+        <td>Senior Software Engineer in Test</td>
         <td>Hangzhou</td>
         <td>暂时不招</td>
     </tr>
     <tr>
         <td>Technology</td>
-        <td>(Senior) Software Engineer in Test - Mobile</td>
+        <td>Senior Software Engineer in Test - Mobile</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QXw2</td>
     </tr>
     <tr>
         <td>Technology</td>
-        <td>(Senior) Software Engineer in Test - Web</td>
+        <td>Senior Software Engineer in Test - Web</td>
         <td>Hangzhou</td>
         <td>http://smrtr.io/QSnS</td>
     </tr>
