@@ -1,4 +1,4 @@
-# 微策略（杭州）社招&&校招内推(长期有效)
+# 微策略（杭州）社招内推(长期有效)
 0 微策略（杭州）处于大规模扩张的阶段。965外企，杭州时薪TOP。
 
 1 温馨提示：简历通过筛选会有`在线测评`发到你的邮箱，这也是考核内容，请认真完成。
@@ -35,7 +35,7 @@
         <td>Technology</td>
         <td>(Senior) Software Engineer - Java</td>
         <td>Hangzhou</td>
-        <td>http://smrtr.io/L89y</td>
+        <td>暂时不招</td>
     </tr>
     <tr>
         <td>Technology</td>
@@ -54,7 +54,7 @@
         <td>Technology</td>
         <td>(Senior) Software Engineer in Test</td>
         <td>Hangzhou</td>
-        <td>http://smrtr.io/QXB4</td>
+        <td>暂时不招</td>
     </tr>
     <tr>
         <td>Technology</td>
@@ -72,50 +72,50 @@
         <td>Technology</td>
         <td>Product Owner - Database/Big Data(HOT)</td>
         <td>Hangzhou</td>
-        <td>http://smrtr.io/R2qn</td>
+        <td>暂时不招</td>
         <td>Database or Big Data direction, with product management, project management or team management experiences</td>
     </tr>
     <tr>
         <td>Technical Support</td>
         <td>Supprot Engineer</td>
         <td>Hangzhou</td>
-        <td>http://smrtr.io/QXw9</td>
+        <td>暂时不招</td>
     </tr>
     <tr>
         <td>IT Support</td>
         <td>IT Support Engineer</td>
         <td>Hangzhou</td>
-        <td>http://smrtr.io/QXDK</td>
+        <td>http://smrtr.io/XKKc</td>
     </tr>
     <tr>
         <td>Facility</td>
         <td>Facility Associate</td>
         <td>Hangzhou</td>
-        <td>http://smrtr.io/R2qb</td>
+        <td>暂时不招</td>
     </tr>
     <tr>
         <td>HR</td>
         <td>HR intern</td>
         <td>Hangzhou</td>
-        <td>http://smrtr.io/QR-7</td>
+        <td>暂时不招</td>
     </tr>
     <tr>
         <td>HR</td>
         <td>Senior Talent Acquisition Specialist</td>
         <td>Hangzhou</td>
-        <td>http://smrtr.io/QXwr</td>
+        <td>暂时不招</td>
     </tr>
     <tr>
         <td>HR</td>
         <td>Manager, Human Resources</td>
         <td>Hangzhou</td>
-        <td>http://smrtr.io/QXwp</td>
+        <td>暂时不招</td>
     </tr>
     <tr>
         <td>HR</td>
         <td>Director, Talent Acquisition</td>
         <td>Hangzhou</td>
-        <td>http://smrtr.io/QXwj</td>
+        <td>暂时不招</td>
     </tr>
     <tr>
         <td>Sales</td>
