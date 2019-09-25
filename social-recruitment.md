@@ -151,4 +151,4 @@
 ### Q&A
 Q: (Senior)X是什么意思?
 
-A: 这是同一个职位的两个职级，X和Senior X。一般来说，校招入职的同学的职级为Associate X, 一年后升为X。Senior X的要求，大家可以自行估量。
+A: 这是同一个职位的两个职级，X和Senior X。一般来说，校招入职的同学的职级为Associate X, 一年后升为X。2~3年后升为Senior X。
