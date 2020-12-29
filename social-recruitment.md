@@ -9,11 +9,11 @@
   - [软件测试工程师](https://mp.weixin.qq.com/s/e-Jf0NGtZbmYlRDk68UcyQ)
 
 ### 3 投递
-- Software Engineer - C++, Java   https://smrtr.io/4MT4B
-- Senior Software Engineer – C++, Java    https://smrtr.io/4MT3n- 
-- Software Engineer – JavaScript   https://smrtr.io/4MT6t
-- Senior Software Engineer – JavaScript   https://smrtr.io/4MT48
-- Support Engineer   https://smrtr.io/4Kvvd
+- Software Engineer - C++, Java   https://smrtr.io/4N96G
+- Software Engineer – JavaScript  https://smrtr.io/4N96S
+- Senior Software Engineer – C++, Java  https://smrtr.io/4N96V 
+- Senior Software Engineer – JavaScript https://smrtr.io/4N976 
+- Support Engineer   https://smrtr.io/4N976
 - Cloud Product Specialist   https://smrtr.io/4N4Dk
 
 
