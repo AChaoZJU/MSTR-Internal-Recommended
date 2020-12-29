@@ -24,3 +24,6 @@ A: 这是同一个职位的两个职级，X和Senior X。一般来说，校招�
 ### 5 其他
   - [软件工程师](https://mp.weixin.qq.com/s/SZ7NoUYQ82nOqbmBDRAuOg)
   - [软件测试工程师](https://mp.weixin.qq.com/s/e-Jf0NGtZbmYlRDk68UcyQ)
+  - 如果对社招&校招有问题，你可以查看Q&A, 或创建issue
+
+
