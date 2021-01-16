@@ -6,6 +6,10 @@
 ### 2 关于微策略和岗位要求【内推链接请移步3】
 https://mp.weixin.qq.com/s/3r5GmHMxcuKFXHnoeKMdvQ
 
+#### 2.1 
+<img width="1144" alt="Screen Shot 2021-01-16 at 13 55 01" src="https://user-images.githubusercontent.com/17509647/104798543-a072f780-5802-11eb-94a4-c0a986625f9d.png">
+
+
 ### 3 投递!!!内推渠道
 - Software Engineer - C++, Java   https://smrtr.io/4N96G
 - Software Engineer – JavaScript  https://smrtr.io/4N96S
