@@ -1,7 +1,8 @@
 # 微策略（杭州）社招内推
-### 1 Note
+### 1 Job Description
 - 965外企，杭州时薪TOP。
 - 温馨提示：简历通过筛选会有`在线测评`发到你的邮箱，这也是考核内容，请认真完成。在完成在线测评时，请开全局代理。
+![image](https://user-images.githubusercontent.com/81001471/122640720-9a779e80-d133-11eb-8771-4112d6cb7dd2.png)
 
 ### 2 关于微策略和岗位要求【内推链接请移步3】
 https://mp.weixin.qq.com/s/3r5GmHMxcuKFXHnoeKMdvQ
